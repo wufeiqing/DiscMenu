@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<selector xmlns:android="http://schemas.android.com/apk/res/android" >
+   <!--<item android:state_pressed="true" android:drawable="@drawable/suspend_gaojiao_postil_pressed"></item>
+   <item android:drawable="@drawable/suspend_gaojiao_postil_normal"></item>-->
+
+   <item android:state_pressed="true" android:drawable="@drawable/home_suspend_select"></item>
+   <item android:drawable="@drawable/home_suspend_normal"></item>
+</selector>

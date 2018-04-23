@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <declare-styleable name="PieMenu">
+        <attr name="Menu1Count" format="integer"/>
+        <attr name="Menu2Count" format="integer"/>
+        <attr name="Menu3Count" format="integer"/>
+        <attr name="Menu1Icon" format="reference"/>
+        <attr name="Menu2Icon" format="reference"/>
+        <attr name="ss" format="reference"/>
+        <attr name="Menu3Icon" format="reference"/>
+        <attr name="Menu1IconName" format="reference"/>
+        <attr name="Menu2IconName" format="reference"/>
+        <attr name="Menu3IconName" format="reference"/>
+        <attr name="CenterMenuRadius" format="dimension|reference"/>
+        <attr name="OutSideMenuRadius" format="dimension|reference"/>
+        <attr name="MenuWidth" format="dimension|reference"/>
+        <attr name="ItemIconSize" format="dimension|reference"/>
+        <attr name="ItemNameSize" format="dimension|reference"/>
+        <attr name="IconNameColor" format="color|reference"/>
+
+        <attr name="CenterIcon" format="reference"/>
+        <attr name="NormalPaint" format="color|reference"/>
+        <attr name="PressedPaint" format="color|reference"/>
+        <attr name="IntervalColor" format="color|reference"/>
+    </declare-styleable>
+
+
+</resources>

@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">DiscMenu</string>
+
+    <string name="whiteboard">阿里</string>
+    <string name="computer">腾讯</string>
+    <string name="presenter">百度</string>
+    <string name="eraser">美团</string>
+    <string name="postil">京东</string>
+    <string name="snap_shot">奇虎</string>
+    <string name="start_piemenu">开启圆盘</string>
+    <string name="stop_piemenu">关闭圆盘</string>
+</resources>
