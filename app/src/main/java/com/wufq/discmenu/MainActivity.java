@@ -23,6 +23,9 @@ public class MainActivity extends AppCompatActivity implements View.OnClickListe
         stopBtn.setOnClickListener(this);
     }
 
+    /**
+     * onClick
+     */
     @Override
     public void onClick(View view) {
         switch (view.getId()){
