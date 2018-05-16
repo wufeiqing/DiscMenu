@@ -23,6 +23,10 @@ public class MainActivity extends AppCompatActivity implements View.OnClickListe
         stopBtn.setOnClickListener(this);
     }
 
+    /**
+     * 点击事件
+     * @param view
+     */
     @Override
     public void onClick(View view) {
         switch (view.getId()){
