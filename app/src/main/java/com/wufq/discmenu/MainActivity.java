@@ -24,7 +24,8 @@ public class MainActivity extends AppCompatActivity implements View.OnClickListe
     }
 
     /**
-     * onClick
+     * 点击事件
+     * @param view 视图
      */
     @Override
     public void onClick(View view) {
