@@ -16,6 +16,7 @@ public class MainActivity extends AppCompatActivity implements View.OnClickListe
         super.onCreate(savedInstanceState);
         setContentView(R.layout.main);
 
+        //按钮
         startBtn = (Button) findViewById(R.id.btn_start_pieMenu);
         stopBtn = (Button) findViewById(R.id.btn_stop_pieMenu);
         startBtn.setOnClickListener(this);
