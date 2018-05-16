@@ -26,11 +26,11 @@ public class MainActivity extends AppCompatActivity implements View.OnClickListe
     @Override
     public void onClick(View view) {
         switch (view.getId()){
-            case R.id.btn_start_pieMenu:
+            case R.id.btn_start_pieMenu://开启圆盘
                 Intent intent = new Intent(this, StartDiscMenuService.class);
                 startService(intent);
                 break;
-            case R.id.btn_stop_pieMenu:
+            case R.id.btn_stop_pieMenu://关闭圆盘
                 Intent it = new Intent(this, StartDiscMenuService.class);
                 stopService(it);
                 break;
